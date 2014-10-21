@@ -8,6 +8,7 @@
 
 body{
 	background: url("../img/bg.png");
+	
 }
 
 img {
@@ -15,9 +16,16 @@ img {
 	
 }
 
+
+
 /***************
 	Typography
 ***************/
+
+blockquote {
+	font-family: 'Playfair Display', serif;
+
+}
 
 /*	Paragraph Text Links
 	color: rgb(13, 202, 250);
